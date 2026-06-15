@@ -1,3 +1,4 @@
+```text
 .
 ├── code/                              Main analysis scripts (Figures 1–5)
 │   ├── figure1.R                      Data integration, batch correction, DEGs, model construction
@@ -14,3 +15,4 @@
 │   └── Figure5/                       Drug-prediction inputs and outputs
 │
 └── External validation and CIBERSORT/ Revision analyses (external validation, immune, drug)
+```
